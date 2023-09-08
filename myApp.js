@@ -1,22 +1,6 @@
 let express = require('express');
 let app = express();
 
-print("Hello World")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -39,3 +23,5 @@ print("Hello World")
 
 
  module.exports = app;
+
+console.log("Hello World")
